@@ -9,7 +9,7 @@ public class Raio {
     }
 
     public static void main(String[] args) {
-        System.out.println("Valor da area do circulo é "+areaCirculo(3));
+        System.out.println("Valor da area do circulo é "+areaCirculo(3) );
     }
 
 }

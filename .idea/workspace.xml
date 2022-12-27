@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6a13c78-b346-4431-9bcf-92c73a8488da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logica-ViradoNoJiraya.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/Raio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/ex1.txt" afterDir="false" />
+    <list default="true" id="e6a13c78-b346-4431-9bcf-92c73a8488da" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/src/ex1/Raio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/Raio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672084906294</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1672103789028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672103789028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
