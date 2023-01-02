@@ -1,0 +1,5 @@
+Calcular e apresentar o valor de uma prestação em atraso, utilize a fórmula abaixo:
+
+P=VALOR + (VALOR (TAXA100)TEMPO)
+
+Onde P é o valor da prestação em atraso.
