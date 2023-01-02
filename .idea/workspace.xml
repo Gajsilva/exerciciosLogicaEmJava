@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a13c78-b346-4431-9bcf-92c73a8488da" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex3/RedmeExercicio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex4/ConversorFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex4/RedmeExercicio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex5/RedmeExercicio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex5/VolumeLata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex5/ConsumoCombustivel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex1/ex1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/RedmeExercicio.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/CalculoSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex3/CalculoSalario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/gabriel/IdeaProjects/maratona-java-Devdojo&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VolumeLata">
+  <component name="RunManager" selected="Application.ConsumoCombustivel">
     <configuration name="CalculadorDIferencaIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex2.CalculadorDIferencaIdade" />
       <module name="logica-ViradoNoJiraya" />
@@ -73,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversorFahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex4.ConversorFahrenheit" />
+    <configuration name="ConsumoCombustivel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex5.ConsumoCombustivel" />
       <module name="logica-ViradoNoJiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex4.*" />
+          <option name="PATTERN" value="ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Raio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex1.Raio" />
+    <configuration name="ConversorFahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex4.ConversorFahrenheit" />
       <module name="logica-ViradoNoJiraya" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex1.*" />
+          <option name="PATTERN" value="ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumoCombustivel" />
         <item itemvalue="Application.VolumeLata" />
         <item itemvalue="Application.ConversorFahrenheit" />
         <item itemvalue="Application.CalculoSalario" />
         <item itemvalue="Application.CalculadorDIferencaIdade" />
-        <item itemvalue="Application.Raio" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672103789028</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1672685839616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672685839616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
