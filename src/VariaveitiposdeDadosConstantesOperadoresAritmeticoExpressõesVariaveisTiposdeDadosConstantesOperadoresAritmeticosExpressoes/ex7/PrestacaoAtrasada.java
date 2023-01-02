@@ -1,4 +1,4 @@
-package ex7;
+package VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex7;
 
 public class PrestacaoAtrasada {
     public double parcelaAtrasada(double valorParcela, double taxa, double tempoEmAtraso){

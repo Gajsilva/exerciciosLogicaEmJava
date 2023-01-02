@@ -1,4 +1,4 @@
-package ex2;
+package VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex2;
 
 public class CalculadorDIferencaIdade {
     public static void main(String[] args) {

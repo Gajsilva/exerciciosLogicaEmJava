@@ -1,4 +1,4 @@
-package ex6;
+package VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex6;
 
 public class TrocaValores {
     public static void main(String[] args) {

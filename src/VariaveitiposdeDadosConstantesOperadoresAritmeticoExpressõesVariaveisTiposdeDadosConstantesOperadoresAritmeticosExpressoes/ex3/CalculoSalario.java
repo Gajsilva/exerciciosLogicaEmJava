@@ -1,4 +1,4 @@
-package ex3;
+package VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex3;
 
 public class CalculoSalario {
     public double salarioBase;

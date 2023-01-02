@@ -1,4 +1,4 @@
-package ex5;
+package VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex5;
 
 public class ConsumoCombustivel {
     private final double consumoPorKm = 12;

@@ -1,4 +1,4 @@
-package ex1;
+package VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex1;
 
 public class Raio {
     static double pi = 3.141592654;

@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a13c78-b346-4431-9bcf-92c73a8488da" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/ex7/PrestacaoAtrasada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex7/RedmeExercicio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex8/CalculoVolumeRetangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex8/RedmeExercicio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/Raio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex1/Raio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/RedmeExercicio.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex1/RedmeExercicio.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2/CalculadorDIferencaIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex2/CalculadorDIferencaIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/CalculoSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex3/CalculoSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/RedmeExercicio" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex3/RedmeExercicio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ConversorFahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex4/ConversorFahrenheit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/RedmeExercicio" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex4/RedmeExercicio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/ConsumoCombustivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex5/ConsumoCombustivel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/RedmeExercicio" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex5/RedmeExercicio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/VolumeLata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex5/VolumeLata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/RedmeExercicio" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex6/RedmeExercicio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/TrocaValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex6/TrocaValores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/PrestacaoAtrasada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex7/PrestacaoAtrasada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/RedmeExercicio" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes/ex7/RedmeExercicio" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +51,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/gabriel/IdeaProjects/logica-ViradoNoJiraya/src/ex7"
+    "last_opened_file_path": "/home/gabriel/IdeaProjects/logica-ViradoNoJiraya/src/VariáveitiposdeDadosConstantesOperadoresAritméticoExpressõesVariáveisTiposdeDadosConstantesOperadoresAritméticosExpressões/ex8"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/VariáveitiposdeDadosConstantesOperadoresAritméticoExpressõesVariáveisTiposdeDadosConstantesOperadoresAritméticosExpressões/ex8" />
       <recent name="$PROJECT_DIR$/src/ex7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrestacaoAtrasada">
-    <configuration name="ConsumoCombustivel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex5.ConsumoCombustivel" />
-      <module name="logica-ViradoNoJiraya" />
+  <component name="RunManager" selected="Application.CalculoVolumeRetangular">
+    <configuration name="CalculoVolumeRetangular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex8.CalculoVolumeRetangular" />
+      <module name="exerciciosLogicaEmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex5.*" />
+          <option name="PATTERN" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversorFahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex4.ConversorFahrenheit" />
-      <module name="logica-ViradoNoJiraya" />
+    <configuration name="ConsumoCombustivel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex5.ConsumoCombustivel" />
+      <module name="exerciciosLogicaEmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex4.*" />
+          <option name="PATTERN" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="PrestacaoAtrasada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex7.PrestacaoAtrasada" />
-      <module name="logica-ViradoNoJiraya" />
+      <option name="MAIN_CLASS_NAME" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex7.PrestacaoAtrasada" />
+      <module name="exerciciosLogicaEmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex7.*" />
+          <option name="PATTERN" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="TrocaValores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex6.TrocaValores" />
-      <module name="logica-ViradoNoJiraya" />
+      <option name="MAIN_CLASS_NAME" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex6.TrocaValores" />
+      <module name="exerciciosLogicaEmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex6.*" />
+          <option name="PATTERN" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="VolumeLata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex5.VolumeLata" />
-      <module name="logica-ViradoNoJiraya" />
+      <option name="MAIN_CLASS_NAME" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex5.VolumeLata" />
+      <module name="exerciciosLogicaEmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex5.*" />
+          <option name="PATTERN" value="VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +126,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="exerciciosLogicaEmJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="exerciciosLogicaEmJava" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculoVolumeRetangular" />
         <item itemvalue="Application.PrestacaoAtrasada" />
         <item itemvalue="Application.TrocaValores" />
         <item itemvalue="Application.ConsumoCombustivel" />
         <item itemvalue="Application.VolumeLata" />
-        <item itemvalue="Application.ConversorFahrenheit" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672688730248</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1672689115393</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672689115393</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

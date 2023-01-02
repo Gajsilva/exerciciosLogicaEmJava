@@ -1,4 +1,4 @@
-package ex4;
+package VariaveitiposdeDadosConstantesOperadoresAritmeticoExpressõesVariaveisTiposdeDadosConstantesOperadoresAritmeticosExpressoes.ex4;
 
 public class ConversorFahrenheit {
     public float calculoFahrenheit(float celsius ){
